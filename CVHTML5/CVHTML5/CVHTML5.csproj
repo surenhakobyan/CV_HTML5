@@ -58,6 +58,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Hire.html" />
     <Content Include="Images\Education.png" />
     <Content Include="Images\img.jpg" />
     <Content Include="Images\personal.png" />
